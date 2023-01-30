@@ -1,5 +1,3 @@
-# hackathon2023
-
 OPTICAL CHARACTER RECOGNITION[OSR]
 
 Digit Recognition
@@ -38,5 +36,7 @@ So below is a list of several modules or libraries or algorithms needed for runn
 
 
 That's all and the working of the application is shown in the demo video.
+
+YouTube link for video demo: https://youtu.be/oK2gUZF-V5w
 
 
